@@ -1,0 +1,2 @@
+# cloudConfig
+springCloudConfig云配置中心的配置文件存放仓库
