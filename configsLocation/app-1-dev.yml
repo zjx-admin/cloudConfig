@@ -3,7 +3,3 @@ server:
 spring:
   application:
     name: app-1
-  cloud:
-    config:
-      import:
-        - common-config.yml
