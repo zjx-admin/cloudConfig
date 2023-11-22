@@ -3,8 +3,6 @@ server:
 spring:
   application:
     name: app-1
-
-spring:
   cloud:
     config:
       import:
